@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="purple_500">#0B3203</color> //üsten ikinci renk
+    <color name="purple_700">#012503</color> //en üst renk
+    <color name="white">#FFFFFFFF</color>   // yazı rengi
+    <color name="editTextArkaPlan">#19780E</color> // text rengi
+    <color name="buttonarkaplan">#B60FC8</color>
+</resources>
